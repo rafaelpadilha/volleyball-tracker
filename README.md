@@ -6,6 +6,11 @@ O objetivo deste projeto é analizar imagens (vídeos/webcam streaming) e calcul
 
 * Python 3.13
 
+(Opcional) Criar venv
+```bash
+python -m venv <nome>
+```
+
 ```bash
 python -m pip install -r requirements.txt
 ```
