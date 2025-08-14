@@ -1,0 +1,5 @@
+Projeto de referência
+https://github.com/shukkkur/VolleyVision/tree/main
+
+Projeto que já treinou um modelo nos mesmos dados que eu ia treinar
+https://github.com/jadidimohammad/volleyball-tracking
